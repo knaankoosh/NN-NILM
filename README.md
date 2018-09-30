@@ -1,3 +1,3 @@
 # NN-NILM
 Non-Intrusive Load Monitoring by Auto-Encoders\
-More info in NILM2018.pdf
+Read more [here](https://github.com/knaankoosh/NN-NILM/blob/master/NILM2018.pdf "Paper").
